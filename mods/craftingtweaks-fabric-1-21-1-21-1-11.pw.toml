@@ -1,0 +1,8 @@
+name = "craftingtweaks-fabric-1.21.1-21.1.11"
+filename = "craftingtweaks-fabric-1.21.1-21.1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DMu0oBKf/versions/U9eZqQPe/craftingtweaks-fabric-1.21.1-21.1.11.jar"
+hash-format = "sha1"
+hash = "b428e5e64e16a671b7f620accffdf47b64375b92"

@@ -1,0 +1,8 @@
+name = "language-reload-1.7.6+1.21.1"
+filename = "language-reload-1.7.6+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/lLMGPiZe/language-reload-1.7.6%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "95c1266f43e330d4848dcf2e11a6be98a8990ce5"

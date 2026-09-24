@@ -1,0 +1,8 @@
+name = "melody_fabric_1.0.10_MC_1.21"
+filename = "melody_fabric_1.0.10_MC_1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar"
+hash-format = "sha1"
+hash = "5624eea73f251c70a9489192d326f9b4aab3b13c"

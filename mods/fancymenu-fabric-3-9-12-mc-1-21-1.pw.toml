@@ -1,0 +1,8 @@
+name = "fancymenu_fabric_3.9.12_MC_1.21.1"
+filename = "fancymenu_fabric_3.9.12_MC_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wq5SjeWM/versions/KBUnFb12/fancymenu_fabric_3.9.12_MC_1.21.1.jar"
+hash-format = "sha1"
+hash = "f1762681137cfae8ef862a5e6a030527ad345324"

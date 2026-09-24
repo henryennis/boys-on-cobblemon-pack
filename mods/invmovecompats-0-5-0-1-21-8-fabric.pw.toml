@@ -1,0 +1,8 @@
+name = "InvMoveCompats-0.5.0+1.21.8-Fabric"
+filename = "InvMoveCompats-0.5.0+1.21.8-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6IpcGP7T/versions/H6eZczKg/InvMoveCompats-0.5.0%2B1.21.8-Fabric.jar"
+hash-format = "sha1"
+hash = "4fed449219b19667e358e63c987b0a11841011d9"

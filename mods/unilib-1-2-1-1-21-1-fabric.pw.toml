@@ -1,0 +1,8 @@
+name = "UniLib-1.2.1+1.21.1-fabric"
+filename = "UniLib-1.2.1+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nT86WUER/versions/BnJ5s0wi/UniLib-1.2.1%2B1.21.1-fabric.jar"
+hash-format = "sha1"
+hash = "90967bf1f5629ad93eff38ceee594b4f65a75efa"

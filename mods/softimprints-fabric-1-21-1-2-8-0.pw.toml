@@ -1,0 +1,8 @@
+name = "softimprints-fabric-1.21.1-2.8.0"
+filename = "softimprints-fabric-1.21.1-2.8.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UhxJgB1o/versions/7GYB3K8f/softimprints-fabric-1.21.1-2.8.0.jar"
+hash-format = "sha1"
+hash = "c250a96c85b04f98755af5633c0c514abb650827"

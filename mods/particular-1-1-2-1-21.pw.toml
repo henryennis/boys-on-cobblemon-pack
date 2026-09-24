@@ -1,0 +1,8 @@
+name = "particular-1.1.2+1.21"
+filename = "particular-1.1.2+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B1CcCd9h/versions/3dq7wTCR/particular-1.1.2%2B1.21.jar"
+hash-format = "sha1"
+hash = "aa59b31359c2211f4a2d401235c4926084d4f97e"

@@ -1,0 +1,8 @@
+name = "dynamiccrosshair-9.11+1.21.1-fabric"
+filename = "dynamiccrosshair-9.11+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/ubTNYZuL/dynamiccrosshair-9.11%2B1.21.1-fabric.jar"
+hash-format = "sha1"
+hash = "bc409ae6b7d845f1f1b974fe8448cda540251d7b"

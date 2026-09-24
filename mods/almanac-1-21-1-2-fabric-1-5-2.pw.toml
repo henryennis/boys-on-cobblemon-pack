@@ -1,0 +1,8 @@
+name = "Almanac-1.21.1-2-fabric-1.5.2"
+filename = "Almanac-1.21.1-2-fabric-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gi02250Z/versions/hUgNmeCO/Almanac-1.21.1-2-fabric-1.5.2.jar"
+hash-format = "sha1"
+hash = "f259ee1c7b7e4d9c4abd59cc38e200cb1766ef3b"

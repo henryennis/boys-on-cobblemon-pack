@@ -1,0 +1,8 @@
+name = "InvMove-0.9.3+1.21.1-Fabric"
+filename = "InvMove-0.9.3+1.21.1-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/REfW2AEX/versions/nOwgsiRT/InvMove-0.9.3%2B1.21.1-Fabric.jar"
+hash-format = "sha1"
+hash = "87c3fc1519f31e17c6ad27b108a3a3304d52a5f9"

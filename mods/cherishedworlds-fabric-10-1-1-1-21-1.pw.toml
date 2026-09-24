@@ -1,0 +1,8 @@
+name = "cherishedworlds-fabric-10.1.1+1.21.1"
+filename = "cherishedworlds-fabric-10.1.1+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3azQ6p0W/versions/nPgbZ9q1/cherishedworlds-fabric-10.1.1%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "c4a0e044b2f34ed2f0ae5e64c22cc46ff4f10c4a"

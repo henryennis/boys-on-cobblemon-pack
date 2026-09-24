@@ -1,0 +1,8 @@
+name = "AmbientEnvironment-fabric-1.21.1-18.0.0.2"
+filename = "AmbientEnvironment-fabric-1.21.1-18.0.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DyTvM1dv/versions/TsLZwxGv/AmbientEnvironment-fabric-1.21.1-18.0.0.2.jar"
+hash-format = "sha1"
+hash = "51d00c5342ac128dbab28f7efbf428e1fe2519d5"

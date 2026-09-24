@@ -1,0 +1,8 @@
+name = "mega_showdown-fabric-1.2.0+1.8.1+1.21.1-release"
+filename = "mega_showdown-fabric-1.2.0+1.8.1+1.21.1-release.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SszvX85I/versions/TKdAixuR/mega_showdown-fabric-1.2.0%2B1.8.1%2B1.21.1-release.jar"
+hash-format = "sha1"
+hash = "2de9508dacfdc19ec05c8979c5dfe205fc6d7525"

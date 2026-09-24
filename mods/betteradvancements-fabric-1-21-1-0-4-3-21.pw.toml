@@ -1,0 +1,8 @@
+name = "BetterAdvancements-Fabric-1.21.1-0.4.3.21"
+filename = "BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/j80BmLRo/BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar"
+hash-format = "sha1"
+hash = "f6c6193c8711340e52645b65dbb7ffde7fbf6f30"

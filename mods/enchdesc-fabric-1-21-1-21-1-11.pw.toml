@@ -1,0 +1,8 @@
+name = "enchdesc-fabric-1.21.1-21.1.11"
+filename = "enchdesc-fabric-1.21.1-21.1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/NBccO5gj/enchdesc-fabric-1.21.1-21.1.11.jar"
+hash-format = "sha1"
+hash = "48c19ec3c55819bb2df4ceef34a7c5caa5e6e699"

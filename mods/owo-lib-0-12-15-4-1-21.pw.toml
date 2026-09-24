@@ -1,0 +1,8 @@
+name = "owo-lib-0.12.15.4+1.21"
+filename = "owo-lib-0.12.15.4+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar"
+hash-format = "sha1"
+hash = "45725e6d33b624e565a7a6e5d3627af40814288d"

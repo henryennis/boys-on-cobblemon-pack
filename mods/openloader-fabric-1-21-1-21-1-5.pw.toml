@@ -1,0 +1,8 @@
+name = "OpenLoader-fabric-1.21.1-21.1.5"
+filename = "OpenLoader-fabric-1.21.1-21.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KwWsINvD/versions/dX14HBtM/OpenLoader-fabric-1.21.1-21.1.5.jar"
+hash-format = "sha1"
+hash = "6b6babff85256683f7cb56abca091e8f22738596"

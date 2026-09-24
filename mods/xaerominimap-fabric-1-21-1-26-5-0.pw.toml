@@ -1,0 +1,8 @@
+name = "xaerominimap-fabric-1.21.1-26.5.0"
+filename = "xaerominimap-fabric-1.21.1-26.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/ZD6hK4GV/xaerominimap-fabric-1.21.1-26.5.0.jar"
+hash-format = "sha1"
+hash = "b9cec1acb286b6d7c05759c0c1e4b8a04f28d785"

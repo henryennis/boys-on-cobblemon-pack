@@ -1,0 +1,8 @@
+name = "letmedespawn-1.21.x-fabric-1.5.0"
+filename = "letmedespawn-1.21.x-fabric-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vE2FN5qn/versions/Wb7jqi55/letmedespawn-1.21.x-fabric-1.5.0.jar"
+hash-format = "sha1"
+hash = "e88e3167ea203fae1b084360fc8242bdfff63128"

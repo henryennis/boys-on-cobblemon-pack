@@ -1,0 +1,8 @@
+name = "inmis-2.8.2-1.21.1"
+filename = "inmis-2.8.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I0UYcPa0/versions/iE11BIfP/inmis-2.8.2-1.21.1.jar"
+hash-format = "sha1"
+hash = "466363e2abf837ed7b0a4543a2c1d5bbe954cffb"

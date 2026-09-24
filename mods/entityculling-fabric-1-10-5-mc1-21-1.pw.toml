@@ -1,0 +1,8 @@
+name = "entityculling-fabric-1.10.5-mc1.21.1"
+filename = "entityculling-fabric-1.10.5-mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/hsWvcyFJ/entityculling-fabric-1.10.5-mc1.21.1.jar"
+hash-format = "sha1"
+hash = "7e8c9c44049e6575e75d1fe38d6006306b8d5623"

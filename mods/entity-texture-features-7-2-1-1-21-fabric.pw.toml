@@ -1,0 +1,8 @@
+name = "entity_texture_features-7.2.1-1.21-fabric"
+filename = "entity_texture_features-7.2.1-1.21-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/Hfy3gPEK/entity_texture_features-7.2.1-1.21-fabric.jar"
+hash-format = "sha1"
+hash = "dc583aaab8f47d01bbcb88c01b9cd0a65c1efd58"

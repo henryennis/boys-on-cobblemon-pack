@@ -1,0 +1,8 @@
+name = "swingthrough-1.0.5+1.21"
+filename = "swingthrough-1.0.5+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JyKlunuD/versions/ELQQ49mK/swingthrough-1.0.5%2B1.21.jar"
+hash-format = "sha1"
+hash = "26c5eee723332dd309879f176eadcc2871fbc2c5"

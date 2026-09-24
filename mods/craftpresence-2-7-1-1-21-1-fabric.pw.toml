@@ -1,0 +1,8 @@
+name = "CraftPresence-2.7.1+1.21.1-fabric"
+filename = "CraftPresence-2.7.1+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/80yDscEu/CraftPresence-2.7.1%2B1.21.1-fabric.jar"
+hash-format = "sha1"
+hash = "56fe004c9d435abc2dab642c5e8d94d9a4eae5b8"

@@ -1,0 +1,8 @@
+name = "jeed-1.21-2.3.3-fabric"
+filename = "jeed-1.21-2.3.3-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EO27GKs1/versions/yfyTcGmb/jeed-1.21-2.3.3-fabric.jar"
+hash-format = "sha1"
+hash = "9322f9819c18f71a5a680f9f22d92605a54f460d"
