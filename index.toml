@@ -12309,6 +12309,11 @@ hash = "c98bffef4cb48157325508119d13bbce54bce12bc8e8d14df0c121b189e0c0f3"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes-fabric-1-2-1-1-21-1.pw.toml"
+hash = "592577699fdf09b75071ab604274b9b915ed055db8d57c239d2dd8445762bdff"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair-9-11-1-21-1-fabric.pw.toml"
 hash = "7cd2d2813b804a4ebca260cd0393cb47c601fe7cc413518934757bfc49ac4a3d"
 metafile = true
@@ -12364,6 +12369,11 @@ hash = "1ed3b66892701af71e9246f2138a6311e455f84c010682339f410bc6219aa789"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin-1-14-1-kotlin-2-4-20.pw.toml"
+hash = "3fa551b9eff30e846f17b9df6a7b786bef92e1f9c09d9105521cb40805d875e6"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves-1-17-1-1-21-1.pw.toml"
 hash = "72168260117bbb3ff250d49667b75cf974c3a05d1ca6417e8b2ab5df66abf42e"
 metafile = true
@@ -12396,6 +12406,11 @@ metafile = true
 [[files]]
 file = "mods/inmis-2-8-2-1-21-1.pw.toml"
 hash = "6a5f4e3d76f6bae2d38cb279be5ecfd322ea0e7bfc5a4b6087e234f57d781eb9"
+metafile = true
+
+[[files]]
+file = "mods/inventoryprofilesnext-fabric-1-21-1-2-2-6.pw.toml"
+hash = "9cee23f6e8829b74e8ecf6be076c98cc7c1c95a1d31ccc207a9a8b5cff6a6a45"
 metafile = true
 
 [[files]]
@@ -12446,6 +12461,11 @@ metafile = true
 [[files]]
 file = "mods/letmedespawn-1-21-x-fabric-1-5-0.pw.toml"
 hash = "fdde9e04a346e3cd5628f720af47164dee31ed56b35f951be731c23b595210b2"
+metafile = true
+
+[[files]]
+file = "mods/libipn-fabric-1-21-1-6-6-3.pw.toml"
+hash = "bbbe8ff7ac1e18c3e7cd8859c7d0fe7e811d67e35a3284f7f5fdeaf17953e2ef"
 metafile = true
 
 [[files]]
@@ -12534,6 +12554,11 @@ hash = "ed3e90158cb508498fcbeb8e50579efca9c24e33b3c17d824e3f8d5d67fab183"
 metafile = true
 
 [[files]]
+file = "mods/puzzleslib-v21-1-60-mc1-21-1-fabric.pw.toml"
+hash = "6fe6c3a971da2a0788d05dfe505329d482f9045e2cf5ded88af8d1d49b98566b"
+metafile = true
+
+[[files]]
 file = "mods/rctapi-fabric-1-21-1-0-16-1-beta.pw.toml"
 hash = "b7dfb1c7154656b7245a6bea45e977c2390c9f0bd91a17bf6382fe663ea438f0"
 metafile = true
@@ -12594,6 +12619,11 @@ hash = "221a118b8e3b19fee31a844d579d1573e844c332bc6e0aae1411d3072744cb10"
 metafile = true
 
 [[files]]
+file = "mods/txnilib-fabric-1-0-24-1-21-1.pw.toml"
+hash = "879c6e2ab16e2e1fb268a2904b3184a79283ca3bca73dc562036f36913bc2935"
+metafile = true
+
+[[files]]
 file = "mods/unilib-1-2-1-1-21-1-fabric.pw.toml"
 hash = "90fb00863b297e367a843ae98db64abf8696324e969652c17340b96b39a32d66"
 metafile = true
@@ -12601,6 +12631,11 @@ metafile = true
 [[files]]
 file = "mods/visuality-0-7-7-1-21.pw.toml"
 hash = "10a6b9331be5b25205e04f97a30b80a78fcb50811de4b72001a389cc9edced23"
+metafile = true
+
+[[files]]
+file = "mods/visualworkbench-v21-1-2-1-21-1-fabric.pw.toml"
+hash = "048854082fe83b9522b68f7f101fcaa461fe2b72a9305e2c6482f06f4bdd60f8"
 metafile = true
 
 [[files]]
