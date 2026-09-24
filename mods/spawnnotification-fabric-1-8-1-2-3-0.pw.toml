@@ -1,0 +1,8 @@
+name = "spawnnotification-fabric-1.8.1-2.3.0"
+filename = "spawnnotification-fabric-1.8.1-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LPuJjiQz/versions/U3bkS83W/spawnnotification-fabric-1.8.1-2.3.0.jar"
+hash-format = "sha1"
+hash = "837665d861c558cb2d683c4f3760c72541e0521d"

@@ -12599,6 +12599,11 @@ hash = "28b54e37f5d2220bc3e752d9e988a143491df1367c4f761f94f712241c50ec3f"
 metafile = true
 
 [[files]]
+file = "mods/spawnnotification-fabric-1-8-1-2-3-0.pw.toml"
+hash = "0dd6c588819cbaf3ca4cd31c48ceb9952e1224b50e793f3d80f8e4a1694b14da"
+metafile = true
+
+[[files]]
 file = "mods/stendhal-1-4-1-1-21.pw.toml"
 hash = "0325242d5a9b89579bce66a633346855a997f28416e3d67d923d52521d65493d"
 metafile = true
@@ -12606,6 +12611,11 @@ metafile = true
 [[files]]
 file = "mods/swingthrough-1-0-5-1-21.pw.toml"
 hash = "fa891ed0c78477d7fb7fdb2de70b25efaaf25cd3db3542cf96621c07220d3750"
+metafile = true
+
+[[files]]
+file = "mods/timcore-fabric-1-8-1-1-32-1.pw.toml"
+hash = "f99570a1743facfc818716e5591d0883f7a9030017420af5f2fc472eb49278c6"
 metafile = true
 
 [[files]]
