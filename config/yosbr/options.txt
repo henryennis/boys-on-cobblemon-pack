@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","cobblemon:gyaradosjump","cobblemon:regionbiasforms"]
+resourcePacks:["vanilla","fabric","cobblemon:gyaradosjump","cobblemon:regionbiasforms","file/AllTheMons [R4.0].zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
