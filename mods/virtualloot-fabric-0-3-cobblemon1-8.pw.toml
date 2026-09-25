@@ -1,0 +1,8 @@
+name = "VirtualLoot-fabric-0.3-cobblemon1.8"
+filename = "VirtualLoot-fabric-0.3-cobblemon1.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/henryennis/VirtualLoot/releases/download/v0.3-cobblemon1.8/VirtualLoot-fabric-0.3-cobblemon1.8.jar"
+hash-format = "sha1"
+hash = "283cd014efb5158118cec3113ede22a8d9313a5c"

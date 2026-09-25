@@ -12639,6 +12639,11 @@ hash = "90fb00863b297e367a843ae98db64abf8696324e969652c17340b96b39a32d66"
 metafile = true
 
 [[files]]
+file = "mods/virtualloot-fabric-0-3-cobblemon1-8.pw.toml"
+hash = "f142f70e7da47a0d7fcecfd0ee87c8a2fc7e8c5c8418b35dd7a3f4471e1eb440"
+metafile = true
+
+[[files]]
 file = "mods/visuality-0-7-7-1-21.pw.toml"
 hash = "10a6b9331be5b25205e04f97a30b80a78fcb50811de4b72001a389cc9edced23"
 metafile = true
