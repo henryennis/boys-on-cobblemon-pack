@@ -12284,11 +12284,6 @@ hash = "935402f3817625867258b6597cb7720f3f9646e4ca0f6eaaaa9c6b6b1af28877"
 metafile = true
 
 [[files]]
-file = "mods/cobbreeding-fabric-2-3-0.pw.toml"
-hash = "bc6e0880d77e1742dc60144fa2077a7cfe9b6c445982af6a0225a292dd76b789"
-metafile = true
-
-[[files]]
 file = "mods/craftingtweaks-fabric-1-21-1-21-1-11.pw.toml"
 hash = "54348387327a3dfe77a36ddca69e6b494935b2085af70d518ec77efa4c05aa30"
 metafile = true
