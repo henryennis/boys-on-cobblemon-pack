@@ -12539,6 +12539,11 @@ hash = "2185ea312f3e93a92bbd91a2480fc827cb21dacf360fe571facf71f0b741a833"
 metafile = true
 
 [[files]]
+file = "mods/playerxp-fabric-1-1-2-1-21-1.pw.toml"
+hash = "ae9719538cc4feb9bfb66a33298080c81605b19891c4c9ea598ffbccf5028d51"
+metafile = true
+
+[[files]]
 file = "mods/presencefootsteps-1-11-2-1-21.pw.toml"
 hash = "52a848eb6c4f9abc772520902e13ab81a3bbbd0102873ba8c272093a9ea6d271"
 metafile = true

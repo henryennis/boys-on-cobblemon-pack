@@ -1,0 +1,8 @@
+name = "playerxp-fabric-1.1.2+1.21.1"
+filename = "playerxp-fabric-1.1.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zlrbPCvu/versions/so3mMuer/playerxp-fabric-1.1.2%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "1e33ca6f10e39da40a04e01651f3f107927d67c9"
