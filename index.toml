@@ -12274,8 +12274,8 @@ hash = "961ee355bd1d7543c77f74e948b30d9c2cc5e5cde4193eab595dc50dd6b33ef0"
 metafile = true
 
 [[files]]
-file = "mods/cobblemonraiddens-fabric-0-13-0-1-21-1.pw.toml"
-hash = "9f7990b06638159084bdc62b941a51a2f88db3e3153cffdfd243bbcea3455419"
+file = "mods/cobblemonraiddens-fabric-0-13-2-1-21-1.pw.toml"
+hash = "ef89490c041bd222009eeb64e26bb5f14d1ec2cb207a0d2bf42424500bb3612f"
 metafile = true
 
 [[files]]
