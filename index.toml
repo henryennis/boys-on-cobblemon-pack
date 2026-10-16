@@ -12269,6 +12269,11 @@ hash = "63e18b9a8b56a5005782c27988ef811ff2ba927c7b12f9b30429b4c9b2be3847"
 metafile = true
 
 [[files]]
+file = "mods/cobbledex-rei-emi-jei-fabric-2-29-0.pw.toml"
+hash = "e2be5b2fc5da3303cc0b6308a2bc483eb6b12dafac0e4363b8e4372018e5c33a"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-fabric-1-8-1-1-21-1.pw.toml"
 hash = "961ee355bd1d7543c77f74e948b30d9c2cc5e5cde4193eab595dc50dd6b33ef0"
 metafile = true
