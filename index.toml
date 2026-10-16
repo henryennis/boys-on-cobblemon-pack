@@ -12279,11 +12279,6 @@ hash = "ef89490c041bd222009eeb64e26bb5f14d1ec2cb207a0d2bf42424500bb3612f"
 metafile = true
 
 [[files]]
-file = "mods/cobblenav-fabric-2-4-1.pw.toml"
-hash = "935402f3817625867258b6597cb7720f3f9646e4ca0f6eaaaa9c6b6b1af28877"
-metafile = true
-
-[[files]]
 file = "mods/craftingtweaks-fabric-1-21-1-21-1-11.pw.toml"
 hash = "54348387327a3dfe77a36ddca69e6b494935b2085af70d518ec77efa4c05aa30"
 metafile = true
