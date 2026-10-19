@@ -1,11 +1,11 @@
 name = "Boys on Cobblemon"
-version = "2026.10.16-2233"
+version = "2026.10.20-0017"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "758d6ba81ed0b90df034165920a91eacc7c928941190051d9ec6b48c85e2994e"
+hash = "993d25e05d0e84aae8962c154225bafde6241bb2f28f4da5a8470b107758b657"
 
 [versions]
 minecraft = "1.21.1"

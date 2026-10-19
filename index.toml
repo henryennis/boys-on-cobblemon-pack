@@ -12469,6 +12469,11 @@ hash = "82f0349c05767ce9ee432862c49fe00e6f42665a413434a2383747c62381b439"
 metafile = true
 
 [[files]]
+file = "mods/lootr-fabric-1-21-1-1-11-38-127.pw.toml"
+hash = "ec40bd932a13c66f24e89e4110d86fab4c79ec56529dbe32d5857a50a46c8f29"
+metafile = true
+
+[[files]]
 file = "mods/make-bubbles-pop-0-3-0-fabric-mc1-19-4-1-21.pw.toml"
 hash = "fdb1c56afd22a715bef2dff07be5dcaf4cf7a2d80795125571cd92b822871d94"
 metafile = true
