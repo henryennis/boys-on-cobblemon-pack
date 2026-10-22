@@ -1,8 +1,0 @@
-name = "cobblemonraiddens-fabric-0.13.2+1.21.1"
-filename = "cobblemonraiddens-fabric-0.13.2+1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/GebWh45l/versions/aFuImAaR/cobblemonraiddens-fabric-0.13.2%2B1.21.1.jar"
-hash-format = "sha1"
-hash = "5be8b6053e380a0c4805ff1b138326fb284471b3"

@@ -1,0 +1,8 @@
+name = "AdvancedLootInfo-fabric-1.21.1-2.4.0"
+filename = "AdvancedLootInfo-fabric-1.21.1-2.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PEPVViac/versions/A7HsVFQ1/AdvancedLootInfo-fabric-1.21.1-2.4.0.jar"
+hash-format = "sha1"
+hash = "1aac7cde7b87498b30494eb50d7ac7f774bf1ed3"

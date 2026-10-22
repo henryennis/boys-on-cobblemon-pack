@@ -1,0 +1,8 @@
+name = "Cobblemon-fabric-1.8.2+1.21.1"
+filename = "Cobblemon-fabric-1.8.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MdwFAVRL/versions/GJ2a1b8O/Cobblemon-fabric-1.8.2%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "1a8ec812b2e7b392ac60801c910d3128d0bbb432"

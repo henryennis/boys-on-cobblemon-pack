@@ -1,0 +1,8 @@
+name = "sodium-extra-fabric-0.9.4+mc1.21.1"
+filename = "sodium-extra-fabric-0.9.4+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/YEWu6red/sodium-extra-fabric-0.9.4%2Bmc1.21.1.jar"
+hash-format = "sha1"
+hash = "628487b330c9589d26cada5c4a51ac457af80a1f"

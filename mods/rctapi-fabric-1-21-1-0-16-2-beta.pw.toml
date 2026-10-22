@@ -1,0 +1,8 @@
+name = "rctapi-fabric-1.21.1-0.16.2-beta"
+filename = "rctapi-fabric-1.21.1-0.16.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CBfM2yw7/versions/DoQNDXAU/rctapi-fabric-1.21.1-0.16.2-beta.jar"
+hash-format = "sha1"
+hash = "3514532fea28e2e1160894428302eb1000af8459"

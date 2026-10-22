@@ -1,0 +1,8 @@
+name = "BHMenu-Fabric-1.21.1-1.21.1-2.5.4"
+filename = "BHMenu-Fabric-1.21.1-1.21.1-2.5.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yWSAtnfH/versions/iLFmg6WM/BHMenu-Fabric-1.21.1-1.21.1-2.5.4.jar"
+hash-format = "sha1"
+hash = "b0823565f7b175727b6ec8bbac0c0a61143e023e"

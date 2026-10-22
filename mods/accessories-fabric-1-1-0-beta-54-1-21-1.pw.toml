@@ -1,0 +1,8 @@
+name = "accessories-fabric-1.1.0-beta.54+1.21.1"
+filename = "accessories-fabric-1.1.0-beta.54+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/YZ9RWTNl/accessories-fabric-1.1.0-beta.54%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "e1165f3d5b31d4296f932ec1bc428f2a832c5def"

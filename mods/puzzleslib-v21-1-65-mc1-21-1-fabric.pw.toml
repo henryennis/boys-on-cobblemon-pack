@@ -1,0 +1,8 @@
+name = "puzzleslib-v21.1.65-mc1.21.1+fabric"
+filename = "puzzleslib-v21.1.65-mc1.21.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QAGBst4M/versions/NiTMKi94/puzzleslib-v21.1.65-mc1.21.1%2Bfabric.jar"
+hash-format = "sha1"
+hash = "464f60d0e97cc4f1f9f1cfb026cc80a973e90497"
