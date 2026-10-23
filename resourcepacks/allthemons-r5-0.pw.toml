@@ -1,0 +1,8 @@
+name = "AllTheMons [R5.0]"
+filename = "AllTheMons [R5.0].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JV5dvqVX/versions/caUvNv58/AllTheMons%20%5BR5.0%5D.zip"
+hash-format = "sha1"
+hash = "d55512d9f032243bb15ef0b2a7d618c3b6429a53"

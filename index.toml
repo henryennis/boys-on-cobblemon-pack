@@ -832,7 +832,7 @@ preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "28902436e6bb8ddcc74c26b05aa8469c48ff2fc5ebdfc1f549a4b146fa0277a4"
+hash = "45455ef82327cabebb851d61dd1f4c96a40d442f8cf2b898a048cd8b55f3091a"
 preserve = true
 
 [[files]]
@@ -12704,8 +12704,8 @@ hash = "50ce7435e17fd0ebec5e0e1ee5cfe2e9758c552721923c8d35f4e709ed5399b7"
 metafile = true
 
 [[files]]
-file = "resourcepacks/allthemons-r4-0.pw.toml"
-hash = "f88546f73d8cf70623b6e2e2313173cc6ac729ee7847de8d5a27d1ff105e3053"
+file = "resourcepacks/allthemons-r5-0.pw.toml"
+hash = "8b4b6b8b2ce578165994e4208c27522c9ac7186fe23fe8ab25814effac7c3dbb"
 metafile = true
 
 [[files]]
